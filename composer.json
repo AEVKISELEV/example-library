@@ -1,0 +1,16 @@
+{
+    "name": "aevkiselev/example-library",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Aevkiselev\\ExampleLibrary\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "AEVKISELEV",
+            "email": "imbatvink@gmail.com"
+        }
+    ],
+    "require": {}
+}
