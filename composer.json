@@ -12,5 +12,7 @@
             "email": "imbatvink@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=7.0"
+    }
 }
